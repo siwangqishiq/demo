@@ -1,4 +1,4 @@
-package com.mingyan.demo;
+package com.mingyan.demo.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

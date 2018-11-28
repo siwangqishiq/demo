@@ -1,0 +1,7 @@
+CREATE TABLE test_user
+(
+    id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
+    name VARCHAR(200),
+    password VARCHAR(400),
+    info VARCHAR(1000)
+);
